@@ -1,0 +1,5 @@
+spring:
+  kafka:
+    producer:
+      client-id: producer
+      bootstrap-servers: localhost:9092,localhost:9093

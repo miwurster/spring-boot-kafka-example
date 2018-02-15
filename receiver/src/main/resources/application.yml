@@ -1,0 +1,6 @@
+spring:
+  kafka:
+    consumer:
+      client-id: receiver
+      group-id: receiver-group
+      bootstrap-servers: localhost:9092,localhost:9093
