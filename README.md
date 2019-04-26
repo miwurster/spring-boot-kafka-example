@@ -31,5 +31,4 @@ java -jar publisher\target\publisher-0.0.1-SNAPSHOT.jar
 java -jar receiver\target\receiver-0.0.1-SNAPSHOT.jar
 ```
 
-
 You can terminate the processes by pressing `Ctrl-C`.
