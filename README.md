@@ -1,5 +1,5 @@
 
-# Kafka Example
+# Spring Boot & Kafka
 
 > Simple Java implementation using Spring Kafka and Spring Boot.
 
